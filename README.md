@@ -1,6 +1,12 @@
 # twitter-user-sentiment
 Tool for analyzing the sentiment of a twitter users timeline. 
 
-To use - add necessary authentication keys for Twitter API. Change screen_name variable to be a string that is the target users screen name.
+**Usage:**
+
+- Add necessary authentication keys for Twitter API. 
+
+$ python3 twitter.py username
+
+username is any twitter username
 
 
